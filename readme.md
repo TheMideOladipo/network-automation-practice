@@ -1,18 +1,12 @@
-\# Network Automation Practice
+\## What this project does
+
+This project demonstrates a simple CI pipeline using GitHub Actions that runs a Python script automatically on every push.
 
 
 
-This project demonstrates a simple Python script used to simulate network device status checks.
+\## Why this matters
 
-
-
-\## Purpose
-
-\- Practice Python automation
-
-\- Learn Git and GitHub workflows
-
-\- Prepare for Network Automation and DevOps roles
+This is a foundational DevOps skill used to validate code before deployment.
 
 
 
